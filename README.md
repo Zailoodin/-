@@ -1,1 +1,1 @@
-# [guess-the-number] (https://zailoodin.github.io/guess-the-number/)
+# [guess-the-number](https://zailoodin.github.io/guess-the-number/)
